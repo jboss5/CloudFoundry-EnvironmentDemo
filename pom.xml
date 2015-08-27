@@ -10,6 +10,7 @@
 	<name>cf-intro-springmvc</name>
 	<description>Spring Boot Project for CF demo</description>
 
+	<!-- Jenkins test commit -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
